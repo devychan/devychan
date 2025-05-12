@@ -1,4 +1,10 @@
 ### {{ DEV YCHAN }}
+
+I'm a passionate DevOps Engineer with experience in creating software
+using technologies like React JS, React Native, Vue JS, and Node JS.
+Specially in utilizing docker containers, servers configuration.
+
+
 ![](https://www.tiktok.com/favicon.ico)
 
 Follow me on Tiktok
