@@ -1,16 +1,18 @@
-## Hi there 👋
+### {{ DEV YCHAN }}
+![](https://www.tiktok.com/favicon.ico)
 
-<!--
-**devychan/devychan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Follow me on Tiktok
 
-Here are some ideas to get you started:
+[{{ DEV YCHAN }}](https://www.tiktok.com/@dev_ychan)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[{{ Techknowlogies }}](https://www.tiktok.com/@techknowlogies)
+
+👋 Hi, I'm Christian, also known as Dev Ychan! Are you looking for a professional web and mobile developer? Whether it's for your projects, capstone, or homework, I'm here to bring your ideas to life with expert solutions. 💻📱
+
+🚀 Featured Projects:
+
+[Projects](https://itsme-ychan.vercel.app/projects)
+
+To learn more about me, visit my professional portfolio.
+
+[Link](https://itsme-ychan.vercel.app/projects)
