@@ -9,7 +9,7 @@ Specially in utilizing docker containers, servers configuration.
 
 Follow me on Tiktok
 
-[{{ DEV YCHAN }}](https://www.tiktok.com/@dev_ychan)
+[{{ DEV YCHAN }}](blank:https://www.tiktok.com/@dev_ychan)
 
 [{{ Techknowlogies }}](https://www.tiktok.com/@techknowlogies)
 
