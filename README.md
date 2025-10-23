@@ -1,8 +1,9 @@
 ### {{ DEV YCHAN }}
 
-I'm a passionate DevOps Engineer with experience in creating software
-using technologies like React JS, React Native, Vue JS, and Node JS.
-Specially in utilizing docker containers, servers configuration.
+Hey there! I’m Christian, but you can call me Ychan (Ee-chan).
+I’m a Software Engineer with a passion for building innovative and scalable systems.
+I love working at the intersection of development and operations, making sure software
+not only works — but scales efficiently, securely, and reliably.
 
 
 ![](https://www.tiktok.com/favicon.ico)
