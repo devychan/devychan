@@ -1,23 +1,54 @@
-### {{ DEV YCHAN }}
+# <DEV_YCHAN />
 
-Hey there! I’m Christian, but you can call me Ychan (Ee-chan).
-I’m a Software Engineer with a passion for building innovative and scalable systems.
-I love working at the intersection of development and operations, making sure software
-not only works — but scales efficiently, securely, and reliably.
+<div align="center">
 
+```bash
+$ whoami
+Christian Rapsing — Software Engineer & Founder
+Focus: Next.js • Fastify • Python AI Pipelines • Multi-Tenant Platforms
+Location: Philippines 🇵🇭
+```
 
-![](https://www.tiktok.com/favicon.ico)
+[![Portfolio](https://img.shields.io/badge/Portfolio-10B981?style=for-the-badge&logo=vercel&logoColor=white)](https://itsme-ychan.vercel.app/)
+[![Ensoore](https://img.shields.io/badge/Ensoore-6366F1?style=for-the-badge&logo=rocket&logoColor=white)](https://ai.ensoore.com/)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@dev_ychan)
 
-Follow me on Tiktok
+</div>
 
-[{{ DEV YCHAN }}](https://www.tiktok.com/@dev_ychan)
+---
 
-👋 Hi, I'm Christian, also known as Dev Ychan! Are you looking for a professional web and mobile developer? Whether it's for your projects, capstone, or homework, I'm here to bring your ideas to life with expert solutions. 💻📱
+### 👋 About Me
 
-🚀 Featured Projects:
+I’m a **Full-Stack & Systems Engineer and SaaS Founder** dedicated to building high-performance, scalable web platforms, custom subscription tools, and automated AI workflows. I bridge the gap between software development and modern system architecture—ensuring software isn't just built, but runs securely, efficiently, and reliably.
 
-[Projects](https://itsme-ychan.vercel.app/projects)
+---
 
-To learn more about me, visit my professional portfolio.
+### 🚀 Founder & Ventures
 
-[Link](https://itsme-ychan.vercel.app/projects)
+| Platform | Role | Focus / Description |
+| :--- | :--- | :--- |
+| **Ensoore** | Founder & Lead Engineer | Multi-tenant SaaS platform & automated technical ventures. |
+---
+
+### 💻 Tech & Capabilities
+
+| Category | Stack & Tools |
+| :--- | :--- |
+| **Core Stack** | Next.js, TypeScript, React, Node.js, Fastify, Python |
+| **AI & Data** | RAG Pipelines, Vector Databases (PgVector), Computer Vision (YOLO) |
+| **DevOps & Infra** | Docker, PostgreSQL, Prisma, Cloud Deployments |
+| **Services** | SaaS Architecture, Mobile & Web Development, Technical Consulting |
+
+---
+
+### 📂 Featured Work & Links
+
+* 🌐 **Portfolio & Case Studies:** [itsme-ychan.vercel.app](https://itsme-ychan.vercel.app/)
+* ⚡ **Engineering Showcase:** [Explore Projects](https://itsme-ychan.vercel.app/projects)
+* 🎵 **TikTok:** [@dev_ychan](https://www.tiktok.com/@dev_ychan)
+
+---
+
+### 🤝 Let's Connect & Build
+
+Looking for a developer to architect multi-tenant SaaS platforms, build custom mobile/web solutions, or consult on software architecture? Feel free to reach out via my portfolio or social channels.
